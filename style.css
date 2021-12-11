@@ -1,0 +1,82 @@
+html, body{
+	background: #8A1C7C;
+	font-family: Arial;
+	font-size: 16px;
+	
+}
+.clear {clear: both;}
+#randomname{
+	width: 90%;
+	max-width: 1000px;
+	background: #81B8EF;
+	margin: 30px auto;
+}
+.mainDetails{
+	min-height: 400px;
+	border-bottom: 1px solid #04030f;
+}
+#headshot{
+	margin: 20px;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+#name{
+	float: right;
+	width: 60%;
+}
+#contactDetailsInfo{
+	float: right;
+	width: 60%;
+}
+
+#mainContent{
+	width: 90%;
+	max-width: 1000px;
+	margin: 10px auto;
+}
+.mainHeaders{
+	float: left;
+	width: 25%;
+}
+.mainContents{
+	float: right;
+	width: 70%;
+}
+.mainImg{
+	width: 90%;
+}
+.articleGrouping{
+	border: 1px solid #04030f;
+}
+#personalityImg{
+	padding: auto;
+	margin-left: 200px;
+	
+}
+
+h1{
+	font-family: Arial;
+	font-size: 3em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+	margin: 10px auto;
+}
+h2{
+	font-family: Arial;
+	font-size: 2em;
+	border-bottom: 1px solid #04030f;
+	color: #04030f;
+}
+h3{
+	font-family: Arial;
+	color: #04030f;
+}
+h4{
+	font-family: Arial;
+	color: #04030f;
+}
+p{
+	font-family: Arial;
+	color: #FBF9FF;
+}
