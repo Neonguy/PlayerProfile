@@ -44,6 +44,10 @@ html, body{
 	width: 70%;
 	border-bottom: 1px solid #04030f;
 }
+.mainContents1{
+	float: right;
+	width: 70%;
+}
 .mainImg{
 	width: 90%;
 	border-bottom: 1px solid #04030f;
