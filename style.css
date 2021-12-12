@@ -42,19 +42,44 @@ html, body{
 .mainContents{
 	float: right;
 	width: 70%;
+	border-bottom: 1px solid #04030f;
 }
 .mainImg{
 	width: 90%;
+	border-bottom: 1px solid #04030f;
 }
 .articleGrouping{
 	border: 1px solid #04030f;
+}
+.Learning{
+	width: 90%;
+}
+.Project{
+	width: 90%;
+	border-bottom: 1px solid #04030f;
+}
+.Project1{
+	width: 90%;
 }
 #personalityImg{
 	padding: auto;
 	margin-left: 200px;
 	
 }
+#LearningStylesImg{
+	margin-left: 30px;
+	
+}
+#NerdImg{
+	padding: auto;
+	margin-left: 80px;
+	
+}
 
+ul{
+	font-family: Arial;
+	color: #103456;
+}
 h1{
 	font-family: Arial;
 	font-size: 3em;
@@ -78,5 +103,5 @@ h4{
 }
 p{
 	font-family: Arial;
-	color: #FBF9FF;
+	color: #103456;
 }
