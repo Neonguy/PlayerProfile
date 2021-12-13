@@ -19,11 +19,15 @@ html, body{
 	margin: 20px;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 25%;
+}
+#headshot img{
+	float: left;
+	width: 100%;
 }
 #name{
-	float: right;
-	width: 60%;
+	margin-top: 30px;
+	float: left;
 }
 #contactDetailsInfo{
 	float: right;
@@ -70,13 +74,14 @@ html, body{
 	margin-left: 200px;
 	
 }
-#LearningStylesImg{
-	margin-left: 30px;
+#LearningStyles img {
+	padding: auto;
+	width:100%;
 	
 }
-#NerdImg{
+#NerdImg img{
 	padding: auto;
-	margin-left: 80px;
+	width:100%;
 	
 }
 
