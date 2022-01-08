@@ -1,5 +1,5 @@
 html, body{
-	background: #8A1C7C;
+	background: #010E14;
 	font-family: Arial;
 	font-size: 16px;
 	
@@ -8,7 +8,7 @@ html, body{
 #randomname{
 	width: 90%;
 	max-width: 1000px;
-	background: #81B8EF;
+	background: #81A4CD;
 	margin: 30px auto;
 }
 .mainDetails{
@@ -53,7 +53,7 @@ html, body{
 	width: 70%;
 }
 .mainImg{
-	width: 90%;
+	width: 100%;
 	border-bottom: 1px solid #04030f;
 }
 .articleGrouping{
@@ -87,7 +87,7 @@ html, body{
 
 ul{
 	font-family: Arial;
-	color: #103456;
+	color: #F5FBEF;
 }
 h1{
 	font-family: Arial;
@@ -112,5 +112,5 @@ h4{
 }
 p{
 	font-family: Arial;
-	color: #103456;
+	color: #F5FBEF;
 }
